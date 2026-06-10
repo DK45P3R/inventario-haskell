@@ -1,0 +1,7 @@
+LogEntry {timestamp = 2026-06-09 20:56:55.904563556 UTC, acao = Add, detalhes = "ID=\"P001\" nome=\"Caneta Azul\" qtd=50 cat=\"Papelaria\"", status = Sucesso}
+LogEntry {timestamp = 2026-06-09 20:56:55.975169834 UTC, acao = Add, detalhes = "ID=\"P002\" nome=\"Caderno A4\" qtd=30 cat=\"Papelaria\"", status = Sucesso}
+LogEntry {timestamp = 2026-06-09 20:56:56.098992336 UTC, acao = Update, detalhes = "ID=\"P002\" nome=\"Caderno Universitario\" qtd=50 cat=\"Papelaria\"", status = Sucesso}
+LogEntry {timestamp = 2026-06-09 20:56:56.118324958 UTC, acao = Remove, detalhes = "remover ID=\"XXX\"", status = Falha "Item com ID \"XXX\" n\227o encontrado."}
+LogEntry {timestamp = 2026-06-09 20:56:56.138714285 UTC, acao = Remove, detalhes = "ID=\"P001\"", status = Sucesso}
+LogEntry {timestamp = 2026-06-09 20:59:26.123936465 UTC, acao = Add, detalhes = "ID=\"P010\" nome=\"Mochila Escolar\" qtd=15 cat=\"Acessorios\"", status = Sucesso}
+LogEntry {timestamp = 2026-06-09 21:01:10.799781288 UTC, acao = Add, detalhes = "ID=\"P012\" nome=\"Caneta Tinteiro\" qtd=2 cat=\"Acessorios\"", status = Sucesso}
