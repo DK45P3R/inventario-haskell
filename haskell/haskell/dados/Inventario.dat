@@ -1,0 +1,1 @@
+fromList [("P002",Item {itemID = "P002", nome = "Caderno Universitario", quantidade = 50, categoria = "Papelaria"}),("P010",Item {itemID = "P010", nome = "Mochila Escolar", quantidade = 15, categoria = "Acessorios"}),("P012",Item {itemID = "P012", nome = "Caneta Tinteiro", quantidade = 2, categoria = "Acessorios"})]
